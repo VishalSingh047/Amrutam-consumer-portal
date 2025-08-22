@@ -6,6 +6,7 @@ It provides consumers with a simple and interactive way to access Amrutam’s se
 ✨ Features
 
 ⚡ Fast Development with Vite
+
 🎨 Modern UI powered by TailwindCSS
 
 🔗 Navigation handled via React Router
@@ -16,7 +17,8 @@ It provides consumers with a simple and interactive way to access Amrutam’s se
 
 📱 Responsive Design for desktop and mobile
 
-🛠️ Tech Stack
+
+🛠️ Tech Stack:
 
 Frontend: React 18, Vite
 
@@ -29,6 +31,7 @@ Icons: React Icons
 SEO: React Helmet Async
 
 Build Tool: Vite
+
 
 📂 Folder Structure
 Amrutam-consumer-portal/
@@ -46,6 +49,7 @@ Amrutam-consumer-portal/
 ├── postcss.config.js      # PostCSS configuration
 ├── vite.config.js         # Vite configuration
 └── README.md              # Documentation
+
 
 ⚙️ Installation & Setup
 1. Clone the Repository
@@ -114,7 +118,3 @@ GitHub Pages
 
 Simply run npm run build and deploy the dist/ folder.
 
-📜 License
-
-This project is licensed under the MIT License.
-You are free to use, modify, and distribute this project.

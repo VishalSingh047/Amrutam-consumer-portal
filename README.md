@@ -6,7 +6,6 @@ It provides consumers with a simple and interactive way to access Amrutam’s se
 ✨ Features
 
 ⚡ Fast Development with Vite
-
 🎨 Modern UI powered by TailwindCSS
 
 🔗 Navigation handled via React Router
